@@ -1,21 +1,21 @@
 ## Required data
 
-Strength (base, total)
-Agility (base, total)
-Stamina (base)
-Intellect (base)
-Spirit (base, total)
-Armor (base)
-Melee Attack (weapon skill)
-Melee Power (base, posBuff, negBuff)
-Melee Damage Range (main-offhand high/low values, percentMod) 
-Ranged Attack (weapon skill)
-Ranged Power (base, posBuff, negBuff)
-Ranged Damage Range (main-offhand high/low values, percentMod) 
-% Crit
-% Dodge
-Health
-Mana
+* Strength (base, total)
+* Agility (base, total)
+* Stamina (base)
+* Intellect (base)
+* Spirit (base, total)
+* Armor (base)
+* Melee Attack (weapon skill)
+* Melee Power (base, posBuff, negBuff)
+* Melee Damage Range (main-offhand high/low values, percentMod) 
+* Ranged Attack (weapon skill)
+* Ranged Power (base, posBuff, negBuff)
+* Ranged Damage Range (main-offhand high/low values, percentMod) 
+* % Crit
+* % Dodge
+* Health
+* Mana
 
 ## When to record
 
