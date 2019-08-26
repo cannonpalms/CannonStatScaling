@@ -1,0 +1,5 @@
+## Interface: 11200
+## Notes: Stat Scaling per Level - Written by Cannon
+## SavedVariables: StatScalingDB
+
+CannonStatScaling.lua
